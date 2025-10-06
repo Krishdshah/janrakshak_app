@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170302508520",
+    "project_id": "jalrakshak-f1d6a",
+    "storage_bucket": "jalrakshak-f1d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170302508520:android:9e3ff9f6e3927ceabd285d",
+        "android_client_info": {
+          "package_name": "com.example.janrakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170302508520-m3vshilnj1hm91uriaeuod1ft8k3fd3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSJhVwnnMUt0G6OD-5N94IfYn_uxyYdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170302508520-m3vshilnj1hm91uriaeuod1ft8k3fd3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
